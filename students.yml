@@ -1,0 +1,21 @@
+---
+- students: 
+  - name: anil
+    phno: 99987066
+    address: 
+        doorNo: 787
+        street: 2nd
+        pincode: 97898
+  - name: sunil
+    phno: 7767689
+    address: 
+        doorNo: 989
+        street: 4th
+        pincode: 65546
+
+  - name: venil
+    phno: 8996666
+    address: 
+        doorNo: 908
+        street: 5th
+        pincode: 77799

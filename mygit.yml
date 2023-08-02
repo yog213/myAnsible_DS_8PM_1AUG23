@@ -1,0 +1,7 @@
+---
+- hosts: all 
+  tasks: 
+  - name: i want to install git on nodes
+    apt: 
+      name: tree
+      state: present
